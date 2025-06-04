@@ -1,0 +1,11 @@
+pip install  --trusted-host pypi.org --trusted-host files.pythonhosted.org scikit-learn shap fairlearn evidently joblib
+
+
+1. Train and Save the Model
+Run the train_model.py script to:
+
+Train the model
+
+Save model and data splits into ./data/
+
+2. run main.py
