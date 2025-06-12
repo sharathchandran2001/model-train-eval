@@ -12,6 +12,9 @@ I saved in below formats for Local dev or testing	Quick save/load, fast prototyp
 model.joblib	==> A trained ML model object (e.g., RandomForestClassifier)	For making predictions
 data_splits.joblib	===> A tuple of NumPy arrays: (X_train, X_test, y_train, y_test)	For model evaluation and testing
 
+====
+
+train_model.py , main.py, then run simulate_postprod_drift_test.py
 ====================
 But in real production situations, you would typically save the model in a more robust format like ONNX or PMML for better compatibility and deployment.
 in Real Production Environments

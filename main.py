@@ -17,7 +17,7 @@ for section, values in results.items():
 
 # Developer feedback
 dev_feedback = feedback.generate_feedback(results["performance"])
-print("\n📣 Developer Feedback:")
+print("\n Developer Feedback:")
 for note in dev_feedback:
     print(note)
 
