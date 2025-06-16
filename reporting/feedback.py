@@ -11,6 +11,6 @@ def generate_feedback(performance_metrics):
         feedback.append("🧐 Low recall may mean the model misses too many true cases. Try rebalancing or reducing bias.")
 
     if not feedback:
-        feedback.append("✅ Model meets all KPI thresholds!")
+        feedback.append("✅ Model meets all KPI thresholds for the current release requirements - ready to push to ELK !")
 
     return feedback
