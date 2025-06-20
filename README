@@ -86,3 +86,13 @@ Use SHAP or LIME to explain misclassifications in degraded segments
 
 ===========
 
+temp notes
+Snowflake rival Databricks revealed its own $1 billion acquisition of Neon
+
+Layer 1 - represents MCP Servers 
+Layer 2 - represents MCP Knowledge base (Graph/VectorDB/Traditional DB etc)
+Layer 6 - Agent Factory 
+Layer 1+2+6 - Address,
+Use case1 Payment Analyst Pro 
+Use case2 Credit Memmo Creator
+Demo Use case : Credit Memo Generator Assistant Agent framework
